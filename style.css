@@ -1,0 +1,41 @@
+/* Header */
+
+.header-logo {
+  height: 70px;
+}
+.header-logo-sf {
+  height: 80px;
+}
+.lang-btn {
+  margin: 0 5px;
+  height: fit-content;
+  width: 57px;
+}
+
+.img {
+  object-fit: cover;
+}
+
+.pro-desc {
+  font-family: "Roboto Mono", monospace;
+  line-height: 1.2;
+}
+
+/* Footer */
+
+.footer-content {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding-bottom: 15px;
+  margin-left: 50px;
+  margin-right: 50px;
+}
+.footer-text {
+  font-family: "Roboto Mono", monospace;
+  line-height: 1.2;
+  width: 60%;
+}
+footer div a img {
+  height: 70px;
+}
