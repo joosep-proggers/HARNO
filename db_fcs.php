@@ -4,8 +4,9 @@ function connect($host, $user, $pass, $db){
     $conn = new mysqli($host, $user, $pass, $db);
     // Check connection
     if ($conn->connect_error) {
-        echo "Connection failed: ";
-        exit;
+        //echo "Connection failed: ";
+        $conn = false;
+        return $conn;
     }
     // correct utf-8 in database
     mysqli_set_charset( $conn, 'utf8');
@@ -16,7 +17,7 @@ function query($conn, $sql){
     if ($conn->query($sql) === true) {
         $result = true;
     } else {
-        echo "Error: " . $sql . "<br>" . $conn->error;
+        //echo "Error: " . $sql . "<br>" . $conn->error;
         $result = false;
     }
     return $result;
