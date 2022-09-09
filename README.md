@@ -8,8 +8,8 @@ Made with:
 
 Chris Erman - [UwUBeebi](github.com/uwubeebi)
 
-Gardo Kirsipuu - GardoKirsipuu
+Gardo Kirsipuu - [GardoKirsipuu](github.com/GardoKirsipuu)
 
-Katriin Poolakese - katpoola
+Katriin Poolakese - [katpoola](github.com/katpoola)
 
-Andero Ilmar Kõre - Nifilia
+Andero Ilmar Kõre - [Nifilia](github.com/Nifilia)
