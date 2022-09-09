@@ -7,10 +7,10 @@ Website with information about a project and a user input form, made as a protot
 
 Made with:
 
-Chris Erman - [UwUBeebi](github.com/uwubeebi)
+Chris Erman - [UwUBeebi](http://github.com/uwubeebi)
 
-Gardo Kirsipuu - [GardoKirsipuu](github.com/GardoKirsipuu)
+Gardo Kirsipuu - [GardoKirsipuu](http://github.com/GardoKirsipuu)
 
-Katriin Poolakese - [katpoola](github.com/katpoola)
+Katriin Poolakese - [katpoola](http://github.com/katpoola)
 
-Andero Ilmar Kõre - [Nifilia](github.com/Nifilia)
+Andero Ilmar Kõre - [Nifilia](http://github.com/Nifilia)
